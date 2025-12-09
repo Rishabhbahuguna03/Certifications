@@ -1,8 +1,8 @@
 ## Certifications
 
-- **Datacamp**
+- **Databricks Gen AI**
 
-  - [AI Fundamentals](https://github.com/Rishabhbahuguna03/Certifications/blob/main/AIF0029275072938.pdf)
+  - [Gen AI]()
 
 
 - **Product School | Micro Certifications**
