@@ -2,7 +2,7 @@
 
 - **Databricks Gen AI**
 
-  - [Gen AI]()
+  - [Gen AI](https://github.com/Rishabhbahuguna03/Certifications/blob/main/Databricks_Gen%20AI_1765245580586.pdf)
 
 
 - **Product School | Micro Certifications**
